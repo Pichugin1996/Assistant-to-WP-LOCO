@@ -5,6 +5,7 @@
 
 2. Затем вставляете строки для перевода в файл in.txt 
 Пример: 
+
         #: /up-sells.php:12
         msgid "You may also like"
         msgstr ""
