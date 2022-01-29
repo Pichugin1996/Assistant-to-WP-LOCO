@@ -1,5 +1,5 @@
 # Manual translation assistant V 0.1 (alfa) 
-Помощник ручного перевода для плагина к WordPress
+Помощник ручного перевода для плагина к WordPress Loco Translate 
 
 1. Для начала работы необходимо скачать файл для перевод с расширение RU-ru.po
 
