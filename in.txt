@@ -1,0 +1,23 @@
+#: 404.php:39
+msgid "back to home"
+msgstr ""
+
+#: comments.php:26
+msgid "0 Comments"
+msgstr ""
+
+#: message formats/topics/organic/content chat.php:30
+msgid "1 comment"
+msgstr ""
+
+#: 404.php:39
+msgid "back to home"
+msgstr ""
+
+#: comments.php:26
+msgid "0 Comments"
+msgstr ""
+
+#: message formats/topics/organic/content chat.php:30
+msgid "1 comment"
+msgstr ""
